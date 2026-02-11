@@ -1,4 +1,4 @@
-Great question! Adding GT or flextable tables from R to Python for PowerPoint is tricky because these packages create complex formatted tables. Here's the **best solution**:
+Adding GT or flextable tables from R to Python for PowerPoint is tricky because these packages create complex formatted tables. Here's the **best solution**:
 
 ## 🎯 **Solution: Export R Tables as Images**
 
