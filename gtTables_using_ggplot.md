@@ -1,4 +1,4 @@
-Ah yes, the `webshot2` Chrome dependency issue in Databricks! This is a common problem. Here are **multiple solutions**:
+The `webshot2` Chrome dependency issue in Databricks! This is a common problem. Here are **multiple solutions**:
 
 ---
 
